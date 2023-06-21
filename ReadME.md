@@ -1,0 +1,1 @@
+A complete multiple regression analysis using nothing but NumPy.
